@@ -4,7 +4,7 @@
 | Name  | Student Code|
 |---|---|
 | Nguyễn Phan Phước Thịnh | SE160111 |
-| Trịnh Phan Chí Hiếu |  |
-| Huỳnh Minh Toàn | |
-| Nguyễn Việt Hoàng| |
-| Nguyễn Quốc Thái | | 
+| Trịnh Phan Chí Hiếu | SE161308 |
+| Huỳnh Minh Toàn | SE161590 |
+| Nguyễn Việt Hoàng| SE150782 |
+| Nguyễn Quốc Thái | SE150466 | 
