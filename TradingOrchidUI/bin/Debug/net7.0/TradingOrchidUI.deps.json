@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TradingOrchidUI/1.0.0": {
+        "runtime": {
+          "TradingOrchidUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingOrchidUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

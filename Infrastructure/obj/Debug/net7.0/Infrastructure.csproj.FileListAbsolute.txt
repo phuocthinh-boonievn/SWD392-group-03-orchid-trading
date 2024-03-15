@@ -1,0 +1,62 @@
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net7.0\Application.xml
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.xml
+D:\TradingOrrt\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\TradingOrrt\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Application.xml
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

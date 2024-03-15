@@ -1,0 +1,36 @@
+D:\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.dll
+D:\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.dll
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CleanArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\TradingOrrt\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\TradingOrrt\Domain\bin\Debug\net7.0\Domain.dll
+D:\TradingOrrt\Domain\bin\Debug\net7.0\Domain.pdb
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.dll
+D:\TradingOrrt\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\TradingOrrt\Domain\obj\Debug\net7.0\Domain.pdb
+D:\TradingOrrt\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\PC\Desktop\FPT Courses\2024_01_Spring\SWD392\TradingOrr\TradingOrrt\Domain\obj\Debug\net7.0\ref\Domain.dll
